@@ -246,6 +246,3 @@ El script de evaluación `utils/evaluate_models.py` proporciona métricas compar
 
 Las contribuciones son bienvenidas. Por favor, abra un issue para discutir cambios importantes antes de enviar un pull request.
 
-## Licencia
-
-Este proyecto está licenciado bajo la licencia MIT - vea el archivo LICENSE para más detalles.
