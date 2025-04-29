@@ -63,12 +63,12 @@ peft-finetune/
 
 4. Configure su token de Hugging Face:
    ```bash
-   export HF_TOKEN="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"
+   export HF_TOKEN="Token"
    ```
    
    O añádalo a su archivo `.bashrc` o `.zshrc`:
    ```bash
-   echo 'export HF_TOKEN="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"' >> ~/.bashrc
+   echo 'export HF_TOKEN="token"' >> ~/.bashrc
    source ~/.bashrc
    ```
 
