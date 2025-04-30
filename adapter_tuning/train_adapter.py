@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Script para realizar Adapter Tuning en el modelo Mistral-7B-Instruct-v0.2
 utilizando un dataset médico procesado.
