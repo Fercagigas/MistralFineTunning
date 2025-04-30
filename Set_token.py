@@ -1,7 +1,7 @@
 import os
 
 # Establecer el token de Hugging Face
-hf_token = "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"  # Reemplaza con tu token real
+hf_token = "TOKEN"  # Reemplaza con tu token real
 
 # Establecer el token como una variable de entorno
 os.environ["HF_TOKEN_MISTRAL"] = hf_token
